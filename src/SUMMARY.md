@@ -28,7 +28,7 @@
 - [Using Structs to Structure Related Data](ch05-00-structs.md)
   - [Defining and Instantiating Structs](ch05-01-defining-structs.md)
   - [An Example Program Using Structs](ch05-02-example-structs.md)
-  - [Method Syntax](ch05-03-method-syntax.md)
+  - [Methods](ch05-03-method-syntax.md)
 
 - [Enums and Pattern Matching](ch06-00-enums.md)
   - [Defining an Enum](ch06-01-defining-an-enum.md)
@@ -37,9 +37,9 @@
 
 ## Basic Rust Literacy
 
-- [Managing Growing Projects with Packages, Crates, and Modules](ch07-00-managing-growing-projects-with-packages-crates-and-modules.md)
+- [Packages, Crates, and Modules](ch07-00-managing-growing-projects-with-packages-crates-and-modules.md)
   - [Packages and Crates](ch07-01-packages-and-crates.md)
-  - [Defining Modules to Control Scope and Privacy](ch07-02-defining-modules-to-control-scope-and-privacy.md)
+  - [Control Scope and Privacy with Modules](ch07-02-defining-modules-to-control-scope-and-privacy.md)
   - [Paths for Referring to an Item in the Module Tree](ch07-03-paths-for-referring-to-an-item-in-the-module-tree.md)
   - [Bringing Paths Into Scope with the `use` Keyword](ch07-04-bringing-paths-into-scope-with-the-use-keyword.md)
   - [Separating Modules into Different Files](ch07-05-separating-modules-into-different-files.md)
@@ -70,7 +70,7 @@
   - [Refactoring to Improve Modularity and Error Handling](ch12-03-improving-error-handling-and-modularity.md)
   - [Developing the Library’s Functionality with Test Driven Development](ch12-04-testing-the-librarys-functionality.md)
   - [Working with Environment Variables](ch12-05-working-with-environment-variables.md)
-  - [Writing Error Messages to Standard Error Instead of Standard Output](ch12-06-writing-to-stderr-instead-of-stdout.md)
+  - [Redirecting Errors to Standard Error](ch12-06-writing-to-stderr-instead-of-stdout.md)
 
 ## Thinking in Rust
 
